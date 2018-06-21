@@ -15,4 +15,4 @@ Run server.js in the Quote Ranks project folder using node, nodemon, or pm2, etc
 
 `node server.js`
 
-Once that is done, to view the project navigate to localhost:8000 in your internet browser.
+Navigate to localhost:8000 in your internet browser.
