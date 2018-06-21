@@ -18,7 +18,7 @@ sudo mongod
 Run server.js in the Quote Ranks project folder using node, nodemon, or pm2, etc.:
 
 ```
-node server.js
+sudo node server.js
 ```
 
 Navigate to localhost:8000 in your internet browser.
